@@ -2,4 +2,5 @@
 <resources>
     <dimen name="textsize20">20sp</dimen>
     <dimen name="small8dp">8dp</dimen>
+    <dimen name="medium16dp">16dp</dimen>
 </resources>
