@@ -414,7 +414,10 @@ Cras hendrerit nulla. Integer maecenas magna duis, tincidunt sit ut massa ac, no
 Pede consectetuer fermentum ut, dui diam odio amet, luctus dictum eget ut sed dignissim, blandit augue. Feugiat quisque dictumst ac wisi malesuada, porro sed ipsum turpis non justo. Et ac maecenas amet tristique vitae nulla. Quam odio amet est purus nisl urna, pellentesque sollicitudin mi mauris pulvinar. Aliquam diam, elit diam massa, sed dis vestibulum donec vitae proin nibh. Et mauris mauris purus auctor. Libero vestibulum sagittis aut. Tristique amet scelerisque ac, et quam pellentesque diam, eu ut nisl amet dis eget. Dictumst cum interdum vel. Morbi euismod lectus ut libero metus.
 
 Et tellus, ac a, varius non purus, ipsum integer metus quis nullam. Magna id ornare pellentesque proin proin, dictum blandit ligula wisi. Ut rutrum. Tellus at tortor sit aliquam mollis integer, accumsan sodales, nec nunc mollis vitae cras risus, dis commodo diam aliquam. Elementum nibh mi diam mauris, at adipiscing donec vulputate vel nonummy, a morbi nunc sed aenean. Rutrum ipsum quisque accumsan et curabitur. Ultricies sagittis platea pellentesque mauris aenean, metus pellentesque pede ultricies orci, odio convallis mi gravida egestas sed tortor. Praesent urna eu nam a, vestibulum commodo cras in ac. Maecenas malesuada felis egestas proin augue, nunc amet sed suspendisse aliquet augue hymenaeos. Pellentesque wisi sapien amet elementum tortor ante, mi augue nulla nibh. Nunc et aliquet maecenas tortor felis.</string>
-    <string name="hello_world">My name</string>
+    <string name="done">Done</string>
+    <string name="hello_world">Sardar Khan</string>
+    <string name="hint_nickname">What is your NickName</string>
+    <string name="name_edittext">Name EditText</string>
     <string name="search_menu_title">Search</string>
     <string name="star_image_content_desc">Yellow Star Image</string>
     <string name="status_bar_notification_info_overflow">999+</string>

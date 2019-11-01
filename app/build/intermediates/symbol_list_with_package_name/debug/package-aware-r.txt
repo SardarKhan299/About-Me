@@ -745,6 +745,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_done
 id buttonPanel
 id center_vertical
 id chains
@@ -763,6 +764,7 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id edt_nickname
 id end
 id expand_activities_button
 id expanded_menu
@@ -858,6 +860,7 @@ id top
 id topPanel
 id tv_bio
 id tv_name
+id tv_nickname
 id unchecked
 id uniform
 id up
@@ -948,7 +951,10 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string bio_text
+string done
 string hello_world
+string hint_nickname
+string name_edittext
 string search_menu_title
 string star_image_content_desc
 string status_bar_notification_info_overflow
