@@ -19,4 +19,17 @@
         app:layout_constraintVertical_bias="0.05"
         style="@style/NameStyle" />
 
+    <ImageView
+        android:id="@+id/iv_star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_name"
+        app:layout_constraintVertical_bias="0.02"
+        android:contentDescription="@string/star_image_content_desc" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

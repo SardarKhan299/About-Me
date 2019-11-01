@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="hello_world">My name</string>
+    <string name="star_image_content_desc">Yellow Star Image</string>
 </resources>
