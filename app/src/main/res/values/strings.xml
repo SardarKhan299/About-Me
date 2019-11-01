@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="hello_world">My name</string>
+    <string name="hello_world">Sardar Khan</string>
     <string name="star_image_content_desc">Yellow Star Image</string>
     <string name="bio_text">Lorem ipsum dolor sit amet, morbi et et, lorem non lobortis, placerat eleifend quam arcu ac sed, duis sit eleifend duis amet, a tempor eros vestibulum erat. Vestibulum augue diam sem neque. Ac et, metus sodales erat ultrices, blandit lectus arcu consequat vehicula, in diam mauris lobortis gravida sollicitudin. Aliquam euismod, enim in tempus ipsum eget ac, molestie faucibus quam pretium, id arcu venenatis risus varius arcu. Anim mauris eros ligula eget donec, amet eu, suspendisse suscipit dolor risus, in dolor ut viverra sed leo lacus. Sint ac eget laoreet molestie, massa felis, harum ut magna velit, dictum vestibulum adipiscing lorem doloribus. Lacinia at sit, mauris eros laborum mauris, voluptate tristique vitae. Nonummy at malesuada at proin malesuada.
 
@@ -11,4 +11,5 @@ Pede consectetuer fermentum ut, dui diam odio amet, luctus dictum eget ut sed di
 Et tellus, ac a, varius non purus, ipsum integer metus quis nullam. Magna id ornare pellentesque proin proin, dictum blandit ligula wisi. Ut rutrum. Tellus at tortor sit aliquam mollis integer, accumsan sodales, nec nunc mollis vitae cras risus, dis commodo diam aliquam. Elementum nibh mi diam mauris, at adipiscing donec vulputate vel nonummy, a morbi nunc sed aenean. Rutrum ipsum quisque accumsan et curabitur. Ultricies sagittis platea pellentesque mauris aenean, metus pellentesque pede ultricies orci, odio convallis mi gravida egestas sed tortor. Praesent urna eu nam a, vestibulum commodo cras in ac. Maecenas malesuada felis egestas proin augue, nunc amet sed suspendisse aliquet augue hymenaeos. Pellentesque wisi sapien amet elementum tortor ante, mi augue nulla nibh. Nunc et aliquet maecenas tortor felis.</string>
     <string name="name_edittext">Name EditText</string>
     <string name="hint_nickname">What is your NickName</string>
+    <string name="done">Done</string>
 </resources>
