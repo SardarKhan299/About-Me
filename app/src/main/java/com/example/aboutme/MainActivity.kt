@@ -1,6 +1,7 @@
 package com.example.aboutme
 
 import android.content.Context
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.ContactsContract
@@ -29,6 +30,8 @@ class MainActivity : AppCompatActivity() {
         binding?.btnDone.setOnClickListener {
             Log.d(this@MainActivity.javaClass.simpleName, "onCreate: Button Clicked...");
             addNickname(it)
+            startActivity(Intent(this,ColorMyViews::class.java))
+            finish()
         }
 
     }

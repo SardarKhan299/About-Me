@@ -76,6 +76,10 @@
         "source": "C:\\Users\\administrator\\AndroidStudioProjects\\AboutMe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\administrator\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_color_my_views.xml.flat",
+        "source": "C:\\Users\\administrator\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\layout\\activity_color_my_views.xml"
+    },
+    {
         "merged": "C:\\Users\\administrator\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\administrator\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },

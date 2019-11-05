@@ -526,6 +526,7 @@ dimen abc_text_size_subhead_material
 dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
+dimen box_text_size
 dimen compat_button_inset_horizontal_material
 dimen compat_button_inset_vertical_material
 dimen compat_button_padding_horizontal_material
@@ -542,6 +543,8 @@ dimen hint_alpha_material_dark
 dimen hint_alpha_material_light
 dimen hint_pressed_alpha_material_dark
 dimen hint_pressed_alpha_material_light
+dimen margin_half
+dimen margin_wide
 dimen medium16dp
 dimen notification_action_icon_size
 dimen notification_action_text_size
@@ -745,6 +748,11 @@ id barrier
 id beginning
 id blocking
 id bottom
+id boxFive_text
+id boxFour_text
+id boxOne_text
+id boxThree_text
+id boxTwo_text
 id btn_done
 id buttonPanel
 id center_vertical
@@ -753,6 +761,7 @@ id checkbox
 id checked
 id chronometer
 id collapseActionView
+id constraint_layout
 id content
 id contentPanel
 id custom
@@ -863,6 +872,8 @@ id title_template
 id top
 id topPanel
 id tv_bio
+id tv_info
+id tv_label
 id tv_name
 id tv_nickname
 id unchecked
@@ -912,6 +923,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_color_my_views
 layout activity_main
 layout custom_dialog
 layout notification_action
@@ -1238,6 +1250,7 @@ style ThemeOverlay_AppCompat_DayNight_ActionBar
 style ThemeOverlay_AppCompat_Dialog
 style ThemeOverlay_AppCompat_Dialog_Alert
 style ThemeOverlay_AppCompat_Light
+style WhiteBox
 style Widget_AppCompat_ActionBar
 style Widget_AppCompat_ActionBar_Solid
 style Widget_AppCompat_ActionBar_TabBar
