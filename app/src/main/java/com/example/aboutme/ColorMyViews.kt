@@ -36,7 +36,7 @@ class ColorMyViews : AppCompatActivity() {
 
             // Boxes using custom colors for background
             R.id.btn_red -> it.setBackgroundResource(R.color.my_red)
-            R.id.btn_red -> it.setBackgroundResource(R.color.my_yellow)
+            R.id.btn_yellow -> it.setBackgroundResource(R.color.my_yellow)
             R.id.btn_green -> it.setBackgroundResource(R.color.my_green)
 
             else -> it?.setBackgroundColor(Color.LTGRAY)
