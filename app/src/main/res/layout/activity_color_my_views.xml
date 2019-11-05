@@ -17,4 +17,59 @@
         app:layout_constraintHorizontal_bias="0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/boxTwo_text"
+        style="@style/WhiteBox"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_margin="@dimen/margin_wide"
+        android:text="Box Two"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/boxOne_text"
+        app:layout_constraintVertical_bias="0" />
+
+    <TextView
+        android:id="@+id/boxThree_text"
+        style="@style/WhiteBox"
+        android:layout_margin="@dimen/margin_half"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Box Three"
+        app:layout_constraintBottom_toTopOf="@+id/boxFour_text"
+        app:layout_constraintTop_toTopOf="@+id/boxTwo_text"
+        app:layout_constraintLeft_toRightOf="@+id/boxTwo_text"
+        app:layout_constraintRight_toRightOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/boxFour_text"
+        style="@style/WhiteBox"
+        android:layout_margin="@dimen/margin_half"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Box Four"
+        app:layout_constraintBottom_toTopOf="@+id/boxFive_text"
+        app:layout_constraintTop_toBottomOf="@+id/boxThree_text"
+        app:layout_constraintLeft_toRightOf="@+id/boxTwo_text"
+        app:layout_constraintRight_toRightOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/boxFive_text"
+        style="@style/WhiteBox"
+        android:layout_margin="@dimen/margin_half"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Box Five"
+        app:layout_constraintBottom_toBottomOf="@+id/boxTwo_text"
+        app:layout_constraintTop_toBottomOf="@+id/boxFour_text"
+        app:layout_constraintLeft_toRightOf="@+id/boxTwo_text"
+        app:layout_constraintRight_toRightOf="parent"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
