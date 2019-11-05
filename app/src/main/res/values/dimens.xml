@@ -3,4 +3,7 @@
     <dimen name="textsize20">20sp</dimen>
     <dimen name="small8dp">8dp</dimen>
     <dimen name="medium16dp">16dp</dimen>
+    <dimen name="box_text_size">24sp</dimen>
+    <dimen name="margin_wide">16dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
 </resources>
